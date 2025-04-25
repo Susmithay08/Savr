@@ -1,0 +1,1142 @@
+{
+  "women": {
+    "abs_beginner": {
+      "title": "ABS Beginner",
+      "duration": "12 minutes",
+      "workouts": [
+        {
+          "name": "Jumping Jacks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Standing Bicycle Crunches",
+          "reps": "14 times"
+        },
+        {
+          "name": "High Stepping",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Russian Twist",
+          "reps": "16"
+        },
+        {
+          "name": "Mountain Climber",
+          "reps": "18"
+        },
+        {
+          "name": "Flutter Kicks",
+          "reps": "15 sec"
+        },
+        {
+          "name": "Leg Raises",
+          "reps": "8 times"
+        },
+        {
+          "name": "Butt Bridge",
+          "reps": "14 times"
+        },
+        {
+          "name": "Skipping Without Rope",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Standing Bicycle Crunches",
+          "reps": "12 times"
+        },
+        {
+          "name": "Russian Twist",
+          "reps": "14 times"
+        },
+        {
+          "name": "Mountain Climber",
+          "reps": "16 times"
+        },
+        {
+          "name": "Flutter Kicks",
+          "reps": "15 sec"
+        },
+        {
+          "name": "Leg Raises",
+          "reps": "8 times"
+        },
+        {
+          "name": "Butt Bridge",
+          "reps": "12"
+        },
+        {
+          "name": "Plank",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Cobra Stretch",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Lying Twist Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Lying Twist Stretch Right",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "abs_intermediate": {
+      "title": "ABS Intermediate",
+      "duration": "17 minutes",
+      "workouts": [
+        {
+          "name": "Jumping Jacks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "High Stepping",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Mountain Climber",
+          "reps": "24 times"
+        },
+        {
+          "name": "Reverse Crunches",
+          "reps": "18 times"
+        },
+        {
+          "name": "Leg Raises",
+          "reps": "16 times"
+        },
+        {
+          "name": "Heel Touch",
+          "reps": "20 times"
+        },
+        {
+          "name": "Reclined Oblique Twist",
+          "reps": "16 times"
+        },
+        {
+          "name": "Heel to Heaven",
+          "reps": "12 times"
+        },
+        {
+          "name": "Plank",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Skipping Without Rope",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Mountain Climber",
+          "reps": "24 times"
+        },
+        {
+          "name": "Reverse Crunches",
+          "reps": "18 times"
+        },
+        {
+          "name": "Leg Raises",
+          "reps": "16 times"
+        },
+        {
+          "name": "Heel Touch",
+          "reps": "20 times"
+        },
+        {
+          "name": "Reclined Oblique Twist",
+          "reps": "16 times"
+        },
+        {
+          "name": "Heel to Heaven",
+          "reps": "12 times"
+        },
+        {
+          "name": "Plank",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Cobra Stretch",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Lying Twist Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Lying Twist Stretch Right",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "abs_advanced": {
+      "title": "ABS Advanced",
+      "duration": "25 minutes",
+      "workouts": [
+        {
+          "name": "Jumping Jacks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "High Stepping",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Cross Knee Plank",
+          "reps": "28 times x 2 sets"
+        },
+        {
+          "name": "Cross Arm Crunches",
+          "reps": "18 times x 2 sets"
+        },
+        {
+          "name": "Heel Touch",
+          "reps": "24 times x 2 sets"
+        },
+        {
+          "name": "X Man Crunch",
+          "reps": "18 times x 2 sets"
+        },
+        {
+          "name": "Butt Bridge",
+          "reps": "20 times x 2 sets"
+        },
+        {
+          "name": "Side Crunches Left",
+          "reps": "16 times x 2 sets"
+        },
+        {
+          "name": "Side Crunches Right",
+          "reps": "16 times x 2 sets"
+        },
+        {
+          "name": "Heels to the Heavens",
+          "reps": "20 times x 2 sets"
+        },
+        {
+          "name": "V Hold",
+          "reps": "30 sec x 2 sets"
+        },
+        {
+          "name": "Plank",
+          "reps": "1 min x 2 sets"
+        },
+        {
+          "name": "Skipping Without Rope",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Cobra Stretch",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Lying Twist Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Lying Twist Stretch Right",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "glutes_beginner": {
+      "title": "Glutes Beginner",
+      "duration": "18 minutes",
+      "workouts": [
+        {
+          "name": "High Stepping",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Butt Kicks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Squats",
+          "reps": "12 times"
+        },
+        {
+          "name": "Standing Glute Kickbacks Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Standing Glute Kickbacks Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Butt Bridge",
+          "reps": "10 times"
+        },
+        {
+          "name": "Mountain Climber",
+          "reps": "14 times"
+        },
+        {
+          "name": "Donkey Kicks Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Donkey Kicks Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Squats",
+          "reps": "10 times"
+        },
+        {
+          "name": "Standing Glute Kickbacks Right",
+          "reps": "8 times"
+        },
+        {
+          "name": "Standing Glute Kickbacks Left",
+          "reps": "8 times"
+        },
+        {
+          "name": "Butt Bridge",
+          "reps": "8 times"
+        },
+        {
+          "name": "Mountain Climber",
+          "reps": "12 times"
+        },
+        {
+          "name": "Donkey Kicks Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Donkey Kicks Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Kneeling Lunge Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Kneeling Lunge Stretch Right",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "glutes_intermediate": {
+      "title": "Glutes Intermediate",
+      "duration": "22 minutes",
+      "workouts": [
+        {
+          "name": "High Stepping",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Butt Kicks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Lunges",
+          "reps": "14 times"
+        },
+        {
+          "name": "Donkey Kicks Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Donkey Kicks Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Squats",
+          "reps": "12 times"
+        },
+        {
+          "name": "Butt Bridge",
+          "reps": "12 times"
+        },
+        {
+          "name": "Bottom Leg Lift Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Bottom Leg Lift Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Fire Hydrant Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Fire Hydrant Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Split Squat Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Split Squat Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Donkey Kicks Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Donkey Kicks Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Squats",
+          "reps": "10 times"
+        },
+        {
+          "name": "Butt Bridge",
+          "reps": "10 times"
+        },
+        {
+          "name": "Bottom Leg Lift Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Bottom Leg Lift Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Lunges",
+          "reps": "12 times"
+        },
+        {
+          "name": "Fire Hydrant Left",
+          "reps": "8 times"
+        },
+        {
+          "name": "Fire Hydrant Right",
+          "reps": "8 times"
+        },
+        {
+          "name": "Split Squat Left",
+          "reps": "8 times"
+        },
+        {
+          "name": "Split Squat Right",
+          "reps": "8 times"
+        },
+        {
+          "name": "Kneeling Lunge Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Kneeling Lunge Stretch Right",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "glutes_advanced": {
+      "title": "Glutes Advanced",
+      "duration": "28 minutes",
+      "workouts": [
+        {
+          "name": "High Stepping",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Butt Kicks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Squats",
+          "reps": "15 times"
+        },
+        {
+          "name": "Donkey Kicks Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Donkey Kicks Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Butt Bridge",
+          "reps": "15 times"
+        },
+        {
+          "name": "Curtsy Lunges",
+          "reps": "14 times"
+        },
+        {
+          "name": "Mountain Climber",
+          "reps": "14 times"
+        },
+        {
+          "name": "Right Lunge Knee Hops",
+          "reps": "12 times"
+        },
+        {
+          "name": "Left Lunge Knee Hops",
+          "reps": "12 times"
+        },
+        {
+          "name": "Flutter Kicks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Bench Glute Kick Back Left",
+          "reps": "16 times"
+        },
+        {
+          "name": "Bench Glute Kick Back Right",
+          "reps": "16 times"
+        },
+        {
+          "name": "Sumo Squat",
+          "reps": "15 times"
+        },
+        {
+          "name": "Hip Bridge & Leg Lift Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Hip Bridge & Leg Lift Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Jumping Squats",
+          "reps": "12 times"
+        },
+        {
+          "name": "Donkey Kicks Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Donkey Kicks Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Butt Bridge",
+          "reps": "12 times"
+        },
+        {
+          "name": "Curtsy Lunges",
+          "reps": "12 times"
+        },
+        {
+          "name": "Mountain Climber",
+          "reps": "12 times"
+        },
+        {
+          "name": "Left Lunge Knee Hops",
+          "reps": "10 times"
+        },
+        {
+          "name": "Right Lunge Knee Hops",
+          "reps": "10 times"
+        },
+        {
+          "name": "Flutter Kicks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Bench Glute Kick Back Left",
+          "reps": "14 times"
+        },
+        {
+          "name": "Bench Glute Kick Back Right",
+          "reps": "14 times"
+        },
+        {
+          "name": "Sumo Squat",
+          "reps": "12 times"
+        },
+        {
+          "name": "Hip Bridge & Leg Lift Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Hip Bridge & Leg Lift Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Kneeling Lunge Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Kneeling Lunge Stretch Right",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "thighs_beginner": {
+      "title": "Thighs Beginner",
+      "duration": "17 minutes",
+      "workouts": [
+        {
+          "name": "High Stepping",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Jumping Jacks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Squats",
+          "reps": "12 times"
+        },
+        {
+          "name": "Donkey Kicks Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Donkey Kicks Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Backward Lunge",
+          "reps": "14 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Modified Burpees",
+          "reps": "5 times"
+        },
+        {
+          "name": "Squats",
+          "reps": "10 times"
+        },
+        {
+          "name": "Donkey Kicks Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Donkey Kicks Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Backward Lunge",
+          "reps": "12 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Left",
+          "reps": "8 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Right",
+          "reps": "8 times"
+        },
+        {
+          "name": "Left Quad Stretch With Wall",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Right Quad Stretch With Wall",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Knee To Chest Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Knee To Chest Stretch Right",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "thighs_intermediate": {
+      "title": "Thighs Intermediate",
+      "duration": "20 minutes",
+      "workouts": [
+        {
+          "name": "Side Hop",
+          "reps": "30 sec"
+        },
+        {
+          "name": "High Stepping",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Lunges",
+          "reps": "14 times"
+        },
+        {
+          "name": "Donkey Kicks Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Donkey Kicks Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Sumo Squat",
+          "reps": "12 times"
+        },
+        {
+          "name": "Frog Press",
+          "reps": "12 times"
+        },
+        {
+          "name": "Fire Hydrant Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Fire Hydrant Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Modified Burpees",
+          "reps": "6 times"
+        },
+        {
+          "name": "Lunges",
+          "reps": "12 times"
+        },
+        {
+          "name": "Donkey Kicks Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Donkey Kicks Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Sumo Squat",
+          "reps": "10 times"
+        },
+        {
+          "name": "Frog Press",
+          "reps": "10 times"
+        },
+        {
+          "name": "Fire Hydrant Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Fire Hydrant Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Left",
+          "reps": "8 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Right",
+          "reps": "8 times"
+        },
+        {
+          "name": "Modified Burpees",
+          "reps": "5 times"
+        },
+        {
+          "name": "Left Quad Stretch With Wall",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Right Quad Stretch With Wall",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Knee To Chest Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Knee To Chest Stretch Right",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "thighs_advanced": {
+      "title": "Thighs Advanced",
+      "duration": "24 minutes",
+      "workouts": [
+        {
+          "name": "High Stepping",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Modified Burpees",
+          "reps": "10 times"
+        },
+        {
+          "name": "Squats",
+          "reps": "15 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Side Lunges",
+          "reps": "14 times"
+        },
+        {
+          "name": "Bottom Leg Lift Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Bottom Leg Lift Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Jumping Squats",
+          "reps": "12 times"
+        },
+        {
+          "name": "Side Leg Circles Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Side Leg Circles Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Glute Kick Back Left",
+          "reps": "15 times"
+        },
+        {
+          "name": "Glute Kick Back Right",
+          "reps": "15 times"
+        },
+        {
+          "name": "Burpees",
+          "reps": "6 times"
+        },
+        {
+          "name": "Squats",
+          "reps": "12 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Side-lying Leg Lift Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Side Lunges",
+          "reps": "12 times"
+        },
+        {
+          "name": "Bottom Leg Lift Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Bottom Leg Lift Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Jumping Squats",
+          "reps": "10 times"
+        },
+        {
+          "name": "Side Leg Circles Left",
+          "reps": "10 times"
+        },
+        {
+          "name": "Side Leg Circles Right",
+          "reps": "10 times"
+        },
+        {
+          "name": "Glute Kick Back Left",
+          "reps": "12 times"
+        },
+        {
+          "name": "Glute Kick Back Right",
+          "reps": "12 times"
+        },
+        {
+          "name": "Wall Sit",
+          "reps": "40 sec"
+        },
+        {
+          "name": "Left Quad Stretch With Wall",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Right Quad Stretch With Wall",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Lying Butterfly Stretch",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "arms_beginner": {
+      "title": "Arms Beginner",
+      "duration": "13 minutes",
+      "workouts": [
+        {
+          "name": "Dynamic Chest",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Punches",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Jumping Jacks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Triceps Dips",
+          "reps": "12 times"
+        },
+        {
+          "name": "Wall Push-ups",
+          "reps": "12 times"
+        },
+        {
+          "name": "Arm Circles Clockwise",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Arm Circles Counterclockwise",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Knee Push-ups",
+          "reps": "10 times"
+        },
+        {
+          "name": "Alternating Hooks",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Up And Down Plank",
+          "reps": "12 times"
+        },
+        {
+          "name": "Chest Press Pulse",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Arm Scissors",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Triceps Dips",
+          "reps": "10 times"
+        },
+        {
+          "name": "Wall Push-ups",
+          "reps": "10 times"
+        },
+        {
+          "name": "Arm Circles Clockwise",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Arm Circles Counterclockwise",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Knee Push-ups",
+          "reps": "8 times"
+        },
+        {
+          "name": "Alternating Hooks",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Up And Down Plank",
+          "reps": "10 times"
+        },
+        {
+          "name": "Chest Press Pulse",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Triceps Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Triceps Stretch Right",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Standing Biceps Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Standing Biceps Stretch Right",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "chest_beginner": {
+      "title": "Chest Beginner",
+      "duration": "5 minutes",
+      "workouts": [
+        {
+          "name": "Dynamic Chest",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Chest Press Pulse",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Arm Scissors",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Wall Chest Fly",
+          "reps": "15 times"
+        },
+        {
+          "name": "Chest Squeeze",
+          "reps": "15 times"
+        }
+      ]
+    },
+    "chest_intermediate": {
+      "title": "Chest Intermediate",
+      "duration": "9 minutes",
+      "workouts": [
+        {
+          "name": "Wall Push-ups",
+          "reps": "12 times"
+        },
+        {
+          "name": "Arm Circles Clockwise",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Arm Circles Counterclockwise",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Chest Press Pulse",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Knee Push-ups",
+          "reps": "10 times"
+        },
+        {
+          "name": "Arm Scissors",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Up And Down Plank",
+          "reps": "10 times"
+        },
+        {
+          "name": "Chest Squeeze",
+          "reps": "15 times"
+        },
+        {
+          "name": "Wall Push-ups",
+          "reps": "10 times"
+        }
+      ]
+    },
+    "chest_advanced": {
+      "title": "Chest Advanced",
+      "duration": "13 minutes",
+      "workouts": [
+        {
+          "name": "Dynamic Chest",
+          "reps": "20 sec"
+        },
+        {
+          "name": "Standing Chest Opener",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Chest Stretch Against Wall",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Arm Circles",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Prayer Pose Press",
+          "reps": "20 times"
+        },
+        {
+          "name": "Standing Biceps Stretch Left",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Standing Biceps Stretch Right",
+          "reps": "30 sec"
+        }
+      ]
+    },
+    "face_chin": {
+      "title": "Face Chin",
+      "duration": "5 minutes",
+      "workouts": [
+        {
+          "name": "Chin Lifts",
+          "reps": "15 reps"
+        },
+        {
+          "name": "Tongue Stretch Upwards",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Neck Kiss Stretch",
+          "reps": "15 reps"
+        },
+        {
+          "name": "Jawline Push",
+          "reps": "10 reps"
+        },
+        {
+          "name": "Neck Roll",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Lying Chin Press",
+          "reps": "12 reps"
+        }
+      ]
+    },
+    "face_jawline": {
+      "title": "Face Jawline",
+      "duration": "7 minutes",
+      "workouts": [
+        {
+          "name": "Fish Face",
+          "reps": "20 reps"
+        },
+        {
+          "name": "Blow Cheeks & Hold",
+          "reps": "30 sec"
+        },
+        {
+          "name": "Cheekbone Massage",
+          "reps": "30 sec"
+        },
+        {
+          "name": "V Cheek Lift",
+          "reps": "15 reps"
+        },
+        {
+          "name": "Smiling Face Stretch",
+          "reps": "10 reps"
+        },
+        {
+          "name": "Puff & Release",
+          "reps": "10 reps"
+        }
+      ]
+    }
+  }
+}

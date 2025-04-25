@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1089822002607",
+    "project_id": "savr-f6ce4",
+    "storage_bucket": "savr-f6ce4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089822002607:android:58a2c54e7339b8f2b1f35a",
+        "android_client_info": {
+          "package_name": "com.thecarecrew.savr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089822002607-ntbon5l3onav6lb5akp5a34gl45j9q33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thecarecrew.savr",
+            "certificate_hash": "2fe2bf533ce5723225772cdf35a1b7777548e85e"
+          }
+        },
+        {
+          "client_id": "1089822002607-bqtj9nnvfkqtvl1p95hjj3ttlfkod97e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_OwsrPgW9R2nracGn4iumI-fkqPDFjUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089822002607-bqtj9nnvfkqtvl1p95hjj3ttlfkod97e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089822002607-3mvb0lllc4nu3459ogbcnt5mau9l339f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.savr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

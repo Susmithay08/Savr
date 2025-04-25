@@ -1,0 +1,1339 @@
+{
+    "Grains & Cereals": {
+        "Rice": {
+            "pantry_max_days": 1095,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Wheat": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Corn (Maize)": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 180,
+            "freezer_max_days": 730
+        },
+        "Barley": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 180,
+            "freezer_max_days": 730
+        },
+        "Oats": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Rye": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 180,
+            "freezer_max_days": 730
+        },
+        "Millet": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 180,
+            "freezer_max_days": 730
+        },
+        "Sorghum": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 180,
+            "freezer_max_days": 730
+        },
+        "Buckwheat": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 180,
+            "freezer_max_days": 730
+        },
+        "Quinoa": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Amaranth": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Spelt": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 180,
+            "freezer_max_days": 730
+        },
+        "Farro": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 180,
+            "freezer_max_days": 730
+        },
+        "Teff": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Bulgur": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Couscous": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        }
+    },
+    "Legumes & Beans": {
+        "Lentils": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Chickpeas": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Black beans": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Kidney beans": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Pinto beans": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Navy beans": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Fava beans": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Soybeans": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Mung beans": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Adzuki beans": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Green peas": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 14,
+            "freezer_max_days": 365
+        },
+        "Split peas": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        }
+    },
+    "Vegetables": {
+        "Potatoes": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Sweet potatoes": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Yams": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Carrots": {
+            "pantry_max_days": 14,
+            "fridge_max_days": 30,
+            "freezer_max_days": 365
+        },
+        "Onions": {
+            "pantry_max_days": 90,
+            "fridge_max_days": 180,
+            "freezer_max_days": 365
+        },
+        "Garlic": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 240,
+            "freezer_max_days": 365
+        },
+        "Ginger": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Cabbage": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 21,
+            "freezer_max_days": 365
+        },
+        "Broccoli": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Cauliflower": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Lettuce": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 0,
+            "tags": [
+                "Short Shelf Life"
+            ]
+        },
+        "Spinach": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Kale": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 10,
+            "freezer_max_days": 365
+        },
+        "Zucchini": {
+            "pantry_max_days": 5,
+            "fridge_max_days": 14,
+            "freezer_max_days": 365
+        },
+        "Pumpkin": {
+            "pantry_max_days": 90,
+            "fridge_max_days": 120,
+            "freezer_max_days": 365
+        },
+        "Squash": {
+            "pantry_max_days": 90,
+            "fridge_max_days": 120,
+            "freezer_max_days": 365
+        },
+        "Cucumbers": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 10,
+            "freezer_max_days": 0
+        },
+        "Peppers (Bell, Chili, etc.)": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 365
+        },
+        "Eggplant": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 365
+        },
+        "Okra": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Radish": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 365
+        },
+        "Turnips": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 21,
+            "freezer_max_days": 365
+        },
+        "Beets": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 21,
+            "freezer_max_days": 365
+        },
+        "Mushrooms": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Artichokes": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 365
+        },
+        "Asparagus": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Brussels sprouts": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 365
+        },
+        "Bok choy": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Celery": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 365
+        },
+        "Fennel": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 365
+        },
+        "Leeks": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 365
+        }
+    },
+    "Fruits": {
+        "Apples": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Bananas": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 14,
+            "freezer_max_days": 90
+        },
+        "Oranges": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Grapefruits": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Lemons": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Limes": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Mangoes": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 14,
+            "freezer_max_days": 180
+        },
+        "Pineapples": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 14,
+            "freezer_max_days": 180
+        },
+        "Papayas": {
+            "pantry_max_days": 5,
+            "fridge_max_days": 10,
+            "freezer_max_days": 180
+        },
+        "Guavas": {
+            "pantry_max_days": 5,
+            "fridge_max_days": 14,
+            "freezer_max_days": 180
+        },
+        "Kiwi": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 30,
+            "freezer_max_days": 180
+        },
+        "Strawberries": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365,
+            "tags": [
+                "Short Shelf Life"
+            ]
+        },
+        "Blueberries": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 10,
+            "freezer_max_days": 365
+        },
+        "Raspberries": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 365
+        },
+        "Blackberries": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 365
+        },
+        "Cherries": {
+            "pantry_max_days": 2,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Grapes": {
+            "pantry_max_days": 2,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Peaches": {
+            "pantry_max_days": 3,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Nectarines": {
+            "pantry_max_days": 3,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Plums": {
+            "pantry_max_days": 3,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Pears": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 30,
+            "freezer_max_days": 365
+        },
+        "Figs": {
+            "pantry_max_days": 2,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Dates": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        },
+        "Pomegranates": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 90,
+            "freezer_max_days": 365
+        },
+        "Watermelon": {
+            "pantry_max_days": 5,
+            "fridge_max_days": 10,
+            "freezer_max_days": 365
+        },
+        "Cantaloupe": {
+            "pantry_max_days": 5,
+            "fridge_max_days": 10,
+            "freezer_max_days": 365
+        },
+        "Honeydew": {
+            "pantry_max_days": 5,
+            "fridge_max_days": 10,
+            "freezer_max_days": 365
+        },
+        "Coconuts": {
+            "pantry_max_days": 60,
+            "fridge_max_days": 90,
+            "freezer_max_days": 365
+        },
+        "Avocados": {
+            "pantry_max_days": 5,
+            "fridge_max_days": 14,
+            "freezer_max_days": 180
+        }
+    },
+    "Meats": {
+        "Beef": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 365
+        },
+        "Pork": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 365
+        },
+        "Lamb": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 365
+        },
+        "Goat": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 365
+        },
+        "Chicken": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Duck": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Turkey": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Quail": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 365
+        },
+        "Rabbit": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 365
+        },
+        "Bison": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 365
+        },
+        "Venison": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 365
+        },
+        "Wild boar": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 365
+        },
+        "Frog legs": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 1,
+            "freezer_max_days": 180
+        },
+        "Crocodile": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 365
+        },
+        "Snake": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 365
+        },
+        "Horse meat": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 365
+        },
+        "Raw chicken": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 365
+        },
+        "Cooked chicken": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 180
+        },
+        "Raw beef": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 365
+        },
+        "Cooked beef": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 180
+        },
+        "Raw pork": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 365
+        },
+        "Cooked pork": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 180
+        }
+    },
+    "Seafood": {
+        "Salmon": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 180
+        },
+        "Tuna": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 180,
+            "tags": [
+                "High Mercury"
+            ]
+        },
+        "Sardines": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 180
+        },
+        "Mackerel": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 180
+        },
+        "Cod": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 180
+        },
+        "Trout": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 180
+        },
+        "Herring": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 180
+        },
+        "Anchovies": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 180
+        },
+        "Catfish": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 180
+        },
+        "Tilapia": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 180
+        },
+        "Eel": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 180
+        },
+        "Octopus": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 180
+        },
+        "Squid": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 180
+        },
+        "Shrimp": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 180
+        },
+        "Lobster": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 1,
+            "freezer_max_days": 180
+        },
+        "Crab": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 1,
+            "freezer_max_days": 180
+        },
+        "Clams": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 1,
+            "freezer_max_days": 180
+        },
+        "Mussels": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 1,
+            "freezer_max_days": 180
+        },
+        "Oysters": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 1,
+            "freezer_max_days": 180
+        },
+        "Seaweed": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 730,
+            "freezer_max_days": 0
+        }
+    },
+    "Dairy Products": {
+        "Milk": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 30,
+            "tags": [
+                "Lactose"
+            ]
+        },
+        "Butter": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 90,
+            "freezer_max_days": 365
+        },
+        "Cheese (Cheddar, Mozzarella, Brie, Feta, Gouda, etc.)": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 30,
+            "freezer_max_days": 180,
+            "tags": [
+                "Lactose"
+            ]
+        },
+        "Yogurt": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 60,
+            "tags": [
+                "Lactose"
+            ]
+        },
+        "Cream": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 60
+        },
+        "Sour cream": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 60
+        },
+        "Whipped cream": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 60
+        },
+        "Cottage cheese": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 90
+        },
+        "Quark": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 60
+        },
+        "Kefir": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 60
+        },
+        "Buttermilk": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 60
+        }
+    },
+    "Eggs": {
+        "Chicken eggs": {
+            "pantry_max_days": 14,
+            "fridge_max_days": 42,
+            "freezer_max_days": 0
+        },
+        "Duck eggs": {
+            "pantry_max_days": 14,
+            "fridge_max_days": 42,
+            "freezer_max_days": 0
+        },
+        "Quail eggs": {
+            "pantry_max_days": 14,
+            "fridge_max_days": 42,
+            "freezer_max_days": 0
+        },
+        "Goose eggs": {
+            "pantry_max_days": 14,
+            "fridge_max_days": 42,
+            "freezer_max_days": 0
+        }
+    },
+    "Nuts & Seeds": {
+        "Almonds": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        },
+        "Cashews": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        },
+        "Walnuts": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        },
+        "Pecans": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        },
+        "Pistachios": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        },
+        "Hazelnuts": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        },
+        "Peanuts": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        },
+        "Sunflower seeds": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        },
+        "Pumpkin seeds": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        },
+        "Chia seeds": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 730,
+            "freezer_max_days": 1095
+        },
+        "Flaxseeds": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 730,
+            "freezer_max_days": 1095
+        },
+        "Sesame seeds": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 730,
+            "freezer_max_days": 1095
+        },
+        "Hemp seeds": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 730,
+            "freezer_max_days": 1095
+        }
+    },
+    "Breads & Bakery Items": {
+        "White bread": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 14,
+            "freezer_max_days": 90
+        },
+        "Whole wheat bread": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 14,
+            "freezer_max_days": 90
+        },
+        "Rye bread": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 14,
+            "freezer_max_days": 90
+        },
+        "Bagels": {
+            "pantry_max_days": 3,
+            "fridge_max_days": 7,
+            "freezer_max_days": 90
+        },
+        "Croissants": {
+            "pantry_max_days": 2,
+            "fridge_max_days": 5,
+            "freezer_max_days": 60
+        },
+        "Naan": {
+            "pantry_max_days": 3,
+            "fridge_max_days": 7,
+            "freezer_max_days": 90
+        },
+        "Pita bread": {
+            "pantry_max_days": 3,
+            "fridge_max_days": 7,
+            "freezer_max_days": 90
+        },
+        "Tortillas": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 30,
+            "freezer_max_days": 180
+        },
+        "Brioche": {
+            "pantry_max_days": 2,
+            "fridge_max_days": 5,
+            "freezer_max_days": 90
+        },
+        "Pretzels": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 0
+        },
+        "Flatbread": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 14,
+            "freezer_max_days": 90
+        },
+        "Focaccia": {
+            "pantry_max_days": 3,
+            "fridge_max_days": 7,
+            "freezer_max_days": 90
+        }
+    },
+    "Oils & Fats": {
+        "Olive oil": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Coconut oil": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Sesame oil": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Sunflower oil": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Canola oil": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Butter": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 90,
+            "freezer_max_days": 365
+        },
+        "Ghee": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 730,
+            "freezer_max_days": 0
+        },
+        "Lard": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 730,
+            "freezer_max_days": 0
+        },
+        "Margarine": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 730
+        }
+    },
+    "Sweeteners": {
+        "Sugar": {
+            "pantry_max_days": 3650,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Honey": {
+            "pantry_max_days": 3650,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Maple syrup": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 1460,
+            "freezer_max_days": 0
+        },
+        "Molasses": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 1460,
+            "freezer_max_days": 0
+        },
+        "Agave syrup": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 1460,
+            "freezer_max_days": 0
+        }
+    },
+    "Spices & Herbs": {
+        "Salt": {
+            "pantry_max_days": 3650,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Black pepper": {
+            "pantry_max_days": 1095,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Cinnamon": {
+            "pantry_max_days": 1095,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Cumin": {
+            "pantry_max_days": 1095,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Turmeric": {
+            "pantry_max_days": 1095,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Ginger": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Cloves": {
+            "pantry_max_days": 1095,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Nutmeg": {
+            "pantry_max_days": 1095,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Cardamom": {
+            "pantry_max_days": 1095,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Coriander": {
+            "pantry_max_days": 1095,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Paprika": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Chili powder": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Oregano": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Thyme": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Rosemary": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Basil": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Mint": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Dill": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 365
+        },
+        "Cilantro": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 14,
+            "freezer_max_days": 90
+        }
+    },
+    "Sauces & Condiments": {
+        "Soy sauce": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 1095,
+            "freezer_max_days": 0
+        },
+        "Teriyaki sauce": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 1095,
+            "freezer_max_days": 0
+        },
+        "Barbecue sauce": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 0
+        },
+        "Mustard": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 0
+        },
+        "Ketchup": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 0
+        },
+        "Mayonnaise": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 180,
+            "freezer_max_days": 0
+        },
+        "Hot sauce": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 730,
+            "freezer_max_days": 0
+        },
+        "Pesto": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 90
+        },
+        "Vinegar": {
+            "pantry_max_days": 1460,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Worcestershire sauce": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 1095,
+            "freezer_max_days": 0
+        }
+    },
+    "Prepared & Processed Foods": {
+        "Pizza": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 180
+        },
+        "Pasta": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Noodles": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Dumplings": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 180
+        },
+        "Sushi": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 1,
+            "freezer_max_days": 0
+        },
+        "Tacos": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 90
+        },
+        "Burritos": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 90
+        },
+        "Hamburgers": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 2,
+            "freezer_max_days": 90
+        },
+        "Hot dogs": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 180
+        },
+        "Sausages": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 180
+        },
+        "Meatballs": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 4,
+            "freezer_max_days": 180
+        },
+        "Curries": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 4,
+            "freezer_max_days": 180
+        },
+        "Stews": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 4,
+            "freezer_max_days": 180
+        },
+        "Soups": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 4,
+            "freezer_max_days": 180
+        },
+        "Casseroles": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 4,
+            "freezer_max_days": 180
+        }
+    },
+    "Beverages": {
+        "Water": {
+            "pantry_max_days": 3650,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Coffee": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Tea": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Juice": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 30,
+            "freezer_max_days": 180
+        },
+        "Soda": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 0
+        },
+        "Beer": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 0
+        },
+        "Wine": {
+            "pantry_max_days": 3650,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Whiskey": {
+            "pantry_max_days": 3650,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Vodka": {
+            "pantry_max_days": 3650,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Rum": {
+            "pantry_max_days": 3650,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Coconut water": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 14,
+            "freezer_max_days": 90
+        },
+        "Milkshakes": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 30
+        },
+        "Smoothies": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 3,
+            "freezer_max_days": 30
+        }
+    },
+    "Snacks & Junk Food": {
+        "Chocolate bars": {
+            "pantry_max_days": 365,
+            "fridge_max_days": 730,
+            "freezer_max_days": 0
+        },
+        "Candy (Lollipops, Gummies, Hard Candy, etc.)": {
+            "pantry_max_days": 730,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Chips (Potato Chips, Tortilla Chips, etc.)": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 0,
+            "freezer_max_days": 0
+        },
+        "Popcorn": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 0
+        },
+        "Pretzels": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 0
+        },
+        "Crackers": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 0
+        },
+        "Granola bars": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 0
+        },
+        "Protein bars": {
+            "pantry_max_days": 180,
+            "fridge_max_days": 365,
+            "freezer_max_days": 0
+        },
+        "Donuts": {
+            "pantry_max_days": 1,
+            "fridge_max_days": 5,
+            "freezer_max_days": 30
+        },
+        "Cookies": {
+            "pantry_max_days": 30,
+            "fridge_max_days": 60,
+            "freezer_max_days": 180
+        },
+        "Brownies": {
+            "pantry_max_days": 7,
+            "fridge_max_days": 30,
+            "freezer_max_days": 180
+        },
+        "Ice cream": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 0,
+            "freezer_max_days": 180
+        },
+        "Pudding": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 7,
+            "freezer_max_days": 90
+        },
+        "Cheesecake": {
+            "pantry_max_days": 0,
+            "fridge_max_days": 5,
+            "freezer_max_days": 180
+        },
+        "Cupcakes": {
+            "pantry_max_days": 1,
+            "fridge_max_days": 5,
+            "freezer_max_days": 90
+        },
+        "Muffins": {
+            "pantry_max_days": 2,
+            "fridge_max_days": 7,
+            "freezer_max_days": 90
+        }
+    }
+}

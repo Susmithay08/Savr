@@ -1,0 +1,2 @@
+D:/TAMUCC/ASE/Project/savr/savr/android/app/.cxx/Debug/11c2t254/x86/CMakeFiles/edit_cache.dir
+D:/TAMUCC/ASE/Project/savr/savr/android/app/.cxx/Debug/11c2t254/x86/CMakeFiles/rebuild_cache.dir

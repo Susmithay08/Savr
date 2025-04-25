@@ -1,0 +1,940 @@
+{
+    "abs_beginner": {
+        "title": "ABS Beginner",
+        "duration": "12 minutes",
+        "workouts": [
+            {
+                "name": "Jumping Jacks",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Standing Bicycle Crunches",
+                "reps": "14 times"
+            },
+            {
+                "name": "High Stepping",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Russian Twist",
+                "reps": "16"
+            },
+            {
+                "name": "Mountain Climber",
+                "reps": "18"
+            },
+            {
+                "name": "Flutter Kicks",
+                "reps": "15 sec"
+            },
+            {
+                "name": "Leg Raises",
+                "reps": "8 times"
+            },
+            {
+                "name": "Butt Bridge",
+                "reps": "14 times"
+            },
+            {
+                "name": "Skipping Without Rope",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Standing Bicycle Crunches",
+                "reps": "12 times"
+            },
+            {
+                "name": "Russian Twist",
+                "reps": "14 times"
+            },
+            {
+                "name": "Mountain Climber",
+                "reps": "16 times"
+            },
+            {
+                "name": "Flutter Kicks",
+                "reps": "15 sec"
+            },
+            {
+                "name": "Leg Raises",
+                "reps": "8 times"
+            },
+            {
+                "name": "Butt Bridge",
+                "reps": "12"
+            },
+            {
+                "name": "Plank",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Cobra Stretch",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Lying Twist Stretch Left",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Lying Twist Stretch Right",
+                "reps": "30 sec"
+            }
+        ]
+    },
+    "abs_intermediate": {
+        "title": "ABS Intermediate",
+        "duration": "15 minutes",
+        "workouts": [
+            {
+                "name": "Jumping Jacks",
+                "reps": "30 sec"
+            },
+            {
+                "name": "High Stepping",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Mountain Climber",
+                "reps": "24 reps"
+            },
+            {
+                "name": "Reverse Crunches",
+                "reps": "18 reps"
+            },
+            {
+                "name": "Leg Raises",
+                "reps": "16 reps"
+            },
+            {
+                "name": "Heel Touch",
+                "reps": "20 reps"
+            },
+            {
+                "name": "Reclined Oblique Twist",
+                "reps": "16 reps"
+            },
+            {
+                "name": "Heel to Heaven",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Plank",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Skipping Without Rope",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Cobra Stretch",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Lying Twist Stretch Left",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Lying Twist Stretch Right",
+                "reps": "30 sec"
+            }
+        ]
+    },
+    "abs_advanced": {
+        "title": "ABS Advanced",
+        "duration": "20 minutes",
+        "workouts": [
+            {
+                "name": "Jumping Jacks",
+                "reps": "30 sec"
+            },
+            {
+                "name": "High Stepping",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Cross Knee Plank",
+                "reps": "28 reps x 2 sets"
+            },
+            {
+                "name": "Cross Arm Crunches",
+                "reps": "18 reps x 2 sets"
+            },
+            {
+                "name": "Heel Touch",
+                "reps": "24 reps x 2 sets"
+            },
+            {
+                "name": "X Man Crunch",
+                "reps": "18 reps x 2 sets"
+            },
+            {
+                "name": "Butt Bridge",
+                "reps": "20 reps x 2 sets"
+            },
+            {
+                "name": "Side Crunches Left",
+                "reps": "16 reps x 2 sets"
+            },
+            {
+                "name": "Side Crunches Right",
+                "reps": "16 reps x 2 sets"
+            },
+            {
+                "name": "Heels to the Heavens",
+                "reps": "20 reps x 2 sets"
+            },
+            {
+                "name": "V Hold",
+                "reps": "30 sec x 2 sets"
+            },
+            {
+                "name": "Plank",
+                "reps": "1 min x 2 sets"
+            },
+            {
+                "name": "Skipping Without Rope",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Cobra Stretch",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Lying Twist Stretch Left",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Lying Twist Stretch Right",
+                "reps": "30 sec"
+            }
+        ]
+    },
+    "arms_beginner": {
+        "title": "Arms Beginner",
+        "duration": "9 minutes",
+        "workouts": [
+            {
+                "name": "Arm Circles Clockwise",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Circles Counterclockwise",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Wall Push-ups",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Triceps Dips",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Arm Scissors",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Chest Press Pulse",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Knee Push-ups",
+                "reps": "8 reps"
+            },
+            {
+                "name": "Triceps Stretch Left",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Triceps Stretch Right",
+                "reps": "30 sec"
+            }
+        ]
+    },
+    "arms_intermediate": {
+        "title": "Arms Intermediate",
+        "duration": "14 minutes",
+        "workouts": [
+            {
+                "name": "Dynamic Chest",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Punches",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Jumping Jacks",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Triceps Dips",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Wall Push-ups",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Arm Circles Clockwise",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Circles Counterclockwise",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Knee Push-ups",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Alternating Hooks",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Up And Down Plank",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Chest Press Pulse",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Scissors",
+                "reps": "20 sec"
+            }
+        ]
+    },
+    "arms_advanced": {
+        "title": "Arms Advanced",
+        "duration": "19 minutes",
+        "workouts": [
+            {
+                "name": "Dynamic Chest",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Punches",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Jumping Jacks",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Triceps Dips",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Wall Push-ups",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Arm Circles Clockwise",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Circles Counterclockwise",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Knee Push-ups",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Alternating Hooks",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Up And Down Plank",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Chest Press Pulse",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Scissors",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Triceps Dips",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Wall Push-ups",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Up And Down Plank",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Knee Push-ups",
+                "reps": "8 reps"
+            },
+            {
+                "name": "Triceps Stretch Left",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Triceps Stretch Right",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Standing Biceps Stretch Left",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Standing Biceps Stretch Right",
+                "reps": "30 sec"
+            }
+        ]
+    },
+    "chest_beginner": {
+        "title": "Chest Beginner",
+        "duration": "9 minutes",
+        "workouts": [
+            {
+                "name": "Wall Push-ups",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Chest Press Pulse",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Scissors",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Dynamic Chest",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Wall Chest Fly",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Chest Squeeze",
+                "reps": "15 reps"
+            }
+        ]
+    },
+    "chest_intermediate": {
+        "title": "Chest Intermediate",
+        "duration": "14 minutes",
+        "workouts": [
+            {
+                "name": "Wall Push-ups",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Chest Press Pulse",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Scissors",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Dynamic Chest",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Wall Chest Fly",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Chest Squeeze",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Knee Push-ups",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Up and Down Plank",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Arm Circles Clockwise",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Circles Counterclockwise",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Chest Squeeze",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Wall Push-ups",
+                "reps": "10 reps"
+            }
+        ]
+    },
+    "chest_advanced": {
+        "title": "Chest Advanced",
+        "duration": "19 minutes",
+        "workouts": [
+            {
+                "name": "Wall Push-ups",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Chest Press Pulse",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Scissors",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Dynamic Chest",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Wall Chest Fly",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Chest Squeeze",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Knee Push-ups",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Up and Down Plank",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Arm Circles Clockwise",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Circles Counterclockwise",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Chest Squeeze",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Wall Push-ups",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Push-ups",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Chest Squeeze",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Chest Stretch Against Wall",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Standing Chest Opener",
+                "reps": "30 sec"
+            }
+        ]
+    },
+    "leg_beginner": {
+        "title": "Leg Beginner",
+        "duration": "10 minutes",
+        "workouts": [
+            {
+                "name": "High Stepping",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Jumping Jacks",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Squats",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Donkey Kicks Left",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Donkey Kicks Right",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Backward Lunges",
+                "reps": "14 reps"
+            },
+            {
+                "name": "Side-lying Leg Lift Left",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Side-lying Leg Lift Right",
+                "reps": "10 reps"
+            }
+        ]
+    },
+    "leg_intermediate": {
+        "title": "Leg Intermediate",
+        "duration": "15 minutes",
+        "workouts": [
+            {
+                "name": "Side Hop",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Lunges",
+                "reps": "14 reps"
+            },
+            {
+                "name": "Donkey Kicks Left",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Donkey Kicks Right",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Sumo Squat",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Frog Press",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Fire Hydrant Left",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Fire Hydrant Right",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Side-lying Leg Lift Left",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Side-lying Leg Lift Right",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Modified Burpees",
+                "reps": "6 reps"
+            }
+        ]
+    },
+    "leg_advanced": {
+        "title": "Leg Advanced",
+        "duration": "20 minutes",
+        "workouts": [
+            {
+                "name": "High Stepping",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Modified Burpees",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Squats",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Side-lying Leg Lift Left",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Side-lying Leg Lift Right",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Side Lunges",
+                "reps": "14 reps"
+            },
+            {
+                "name": "Bottom Leg Lift Left",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Bottom Leg Lift Right",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Jumping Squats",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Glute Kick Back Left",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Glute Kick Back Right",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Side Leg Circles Left",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Side Leg Circles Right",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Wall Sit",
+                "reps": "40 sec"
+            },
+            {
+                "name": "Quad Stretch",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Butterfly Stretch",
+                "reps": "30 sec"
+            }
+        ]
+    },
+    "shoulder_beginner": {
+        "title": "Shoulder Beginner",
+        "duration": "10 minutes",
+        "workouts": [
+            {
+                "name": "Shoulder Rolls",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Circles Clockwise",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Arm Circles Counterclockwise",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Wall Angels",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Superman Hold",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Standing Row",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Shoulder Stretch Left",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Shoulder Stretch Right",
+                "reps": "30 sec"
+            }
+        ]
+    },
+    "shoulder_intermediate": {
+        "title": "Shoulder Intermediate",
+        "duration": "15 minutes",
+        "workouts": [
+            {
+                "name": "Shoulder Rolls",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Circles Clockwise",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Arm Circles Counterclockwise",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Wall Angels",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Superman Hold",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Standing Row",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Shoulder Stretch Left",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Shoulder Stretch Right",
+                "reps": "30 sec"
+            },
+            {
+                "name": "T-Raises",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Push-Up to Back Extension",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Standing Shoulder Press",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Bent-over Y-Raise",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Child's Pose",
+                "reps": "30 sec"
+            }
+        ]
+    },
+    "shoulder_advanced": {
+        "title": "Shoulder Advanced",
+        "duration": "20 minutes",
+        "workouts": [
+            {
+                "name": "Shoulder Rolls",
+                "reps": "20 sec"
+            },
+            {
+                "name": "Arm Circles Clockwise",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Arm Circles Counterclockwise",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Wall Angels",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Superman Hold",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Standing Row",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Shoulder Stretch Left",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Shoulder Stretch Right",
+                "reps": "30 sec"
+            },
+            {
+                "name": "T-Raises",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Push-Up to Back Extension",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Standing Shoulder Press",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Bent-over Y-Raise",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Child's Pose",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Superman Pulses",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Pike Push-ups",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Standing Towel Row",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Lying W Raises",
+                "reps": "12 reps"
+            },
+            {
+                "name": "Shoulder Blade Squeeze",
+                "reps": "15 reps"
+            }
+        ]
+    },
+    "face_chin": {
+        "title": "Face Chin",
+        "duration": "5 minutes",
+        "workouts": [
+            {
+                "name": "Chin Lifts",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Tongue Stretch Upwards",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Neck Kiss Stretch",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Jawline Push",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Neck Roll",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Lying Chin Press",
+                "reps": "12 reps"
+            }
+        ]
+    },
+    "face_jawline": {
+        "title": "Face Jawline",
+        "duration": "7 minutes",
+        "workouts": [
+            {
+                "name": "Fish Face",
+                "reps": "20 reps"
+            },
+            {
+                "name": "Blow Cheeks & Hold",
+                "reps": "30 sec"
+            },
+            {
+                "name": "Cheekbone Massage",
+                "reps": "30 sec"
+            },
+            {
+                "name": "V Cheek Lift",
+                "reps": "15 reps"
+            },
+            {
+                "name": "Smiling Face Stretch",
+                "reps": "10 reps"
+            },
+            {
+                "name": "Puff & Release",
+                "reps": "10 reps"
+            }
+        ]
+    }
+}

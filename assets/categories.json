@@ -1,0 +1,89 @@
+{
+    "categories": {
+        "Grains & Cereals": {
+            "pantry": 365,
+            "fridge": 90,
+            "freeze": 365
+        },
+        "Legumes & Beans": {
+            "pantry": 730,
+            "fridge": 180,
+            "freeze": 365
+        },
+        "Vegetables": {
+            "pantry": 0,
+            "fridge": 14,
+            "freeze": 365
+        },
+        "Fruits": {
+            "pantry": 5,
+            "fridge": 14,
+            "freeze": 365
+        },
+        "Meats": {
+            "pantry": 0,
+            "fridge": 7,
+            "freeze": 365
+        },
+        "Seafood": {
+            "pantry": 0,
+            "fridge": 7,
+            "freeze": 180
+        },
+        "Dairy Products": {
+            "pantry": 0,
+            "fridge": 14,
+            "freeze": 60
+        },
+        "Eggs": {
+            "pantry": 14,
+            "fridge": 42,
+            "freeze": 0
+        },
+        "Nuts & Seeds": {
+            "pantry": 180,
+            "fridge": 365,
+            "freeze": 730
+        },
+        "Breads & Bakery Items": {
+            "pantry": 5,
+            "fridge": 10,
+            "freeze": 90
+        },
+        "Oils & Fats": {
+            "pantry": 730,
+            "fridge": 0,
+            "freeze": 0
+        },
+        "Sweeteners": {
+            "pantry": 730,
+            "fridge": 1460,
+            "freeze": 0
+        },
+        "Spices & Herbs": {
+            "pantry": 730,
+            "fridge": 0,
+            "freeze": 0
+        },
+        "Sauces & Condiments": {
+            "pantry": 272,
+            "fridge": 365,
+            "freeze": 0
+        },
+        "Prepared & Processed Foods": {
+            "pantry": 0,
+            "fridge": 3,
+            "freeze": 180
+        },
+        "Beverages": {
+            "pantry": 365,
+            "fridge": 0,
+            "freeze": 0
+        },
+        "Snacks & Junk Food": {
+            "pantry": 105,
+            "fridge": 18,
+            "freeze": 15
+        }
+    }
+}

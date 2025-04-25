@@ -1,0 +1,66 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+    id "com.google.gms.google-services"
+}
+
+android {
+    namespace = "com.thecarecrew.savr"
+    compileSdk = 35  // Latest recommended version
+
+    defaultConfig {
+        applicationId = "com.thecarecrew.savr"
+        minSdk = 23  // Minimum required for Firebase
+        targetSdk = 35
+        versionCode = 1
+        versionName = "1.0.0"
+    }
+
+    signingConfigs {
+        debug {
+            storeFile file("../app/debug.keystore")  // ✅ Ensure correct path
+            storePassword "android"
+            keyAlias "androiddebugkey"
+            keyPassword "android"
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.debug
+        }
+        release {
+            signingConfig signingConfigs.debug  // ✅ Still using debug signing for now
+            minifyEnabled false
+            shrinkResources false
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+    }
+
+    kotlinOptions {
+        jvmTarget = "11"
+    }
+}
+
+dependencies {
+    // Import the Firebase BoM (Bill of Materials)
+    implementation platform('com.google.firebase:firebase-bom:33.10.0')
+
+    // Firebase Authentication
+    implementation 'com.google.firebase:firebase-auth'
+
+    // Firebase Firestore (Database)
+    implementation 'com.google.firebase:firebase-firestore'
+
+    // Firebase Storage (Optional, for uploading images)
+    implementation 'com.google.firebase:firebase-storage'
+}
+
+flutter {
+    source = "../.."
+}
